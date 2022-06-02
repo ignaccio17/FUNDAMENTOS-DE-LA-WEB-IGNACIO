@@ -14,11 +14,11 @@ Una solicitud es una propuesta o requisito que pide el cliente ya sea en un jueg
 
 <a href="ELEMENTOS DE TEXTO/hipervinculos.html">hipervinculos</a>
 
-Hipervínculos (etiquetas de anclaje)
-Atributo importante: href (la URL a la que se enruta)
+<!-- Hipervínculos (etiquetas de anclaje)
+Atributo importante: href (la URL a la que se enruta) -->
 
 <a href="ELEMENTOS DE TEXTO/emphasis-y-strong.html">Emphasis y Strong</a>
 
-<strong> y <em> se utilizan a menudo dentro de los párrafos 
+<!-- <strong> y <em> se utilizan a menudo dentro de los párrafos -->
 
 07/06/2022
