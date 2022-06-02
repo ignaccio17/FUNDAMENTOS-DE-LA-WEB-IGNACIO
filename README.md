@@ -54,19 +54,19 @@ IMAGENES Y VIDEOS
 
 HTML
 
-2. El texto entre <body> y </body> describe la parte visible de la página web. ¿Verdadero o falso?
+2. El texto entre < body > y < /body > describe la parte visible de la página web. ¿Verdadero o falso?
 
 Verdadero
 
-3. En el ejemplo de código anterior, ¿Qué etiqueta es el padre de los elementos de la lista <li>?
+3. En el ejemplo de código anterior, ¿Qué etiqueta es el padre de los elementos de la lista < li >?
 
-<ul>
+< ul >
 
-4. En el ejemplo de código anterior, ¿qué etiqueta es el padre de la etiqueta de anclaje <a>?
+4. En el ejemplo de código anterior, ¿qué etiqueta es el padre de la etiqueta de anclaje < a >?
 
-<p>
+< p >
 
-5. ¿Cuál es la función de la etiqueta anchor <a> en el ejemplo anterior?
+5. ¿Cuál es la función de la etiqueta anchor < a > en el ejemplo anterior?
 
 Para proporcionar un hipervínculo a la URL definida en el atributo href
 
