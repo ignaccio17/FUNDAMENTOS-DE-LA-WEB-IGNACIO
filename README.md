@@ -25,16 +25,11 @@ Atributo importante: href (la URL a la que se enruta) -->
 
 LISTAS Y TABLAS
 
-<a href="LISTAS Y TABLAS/listas-desordenadas.html">Listas Desordenadas</a>
+<a href="LISTAS Y TABLAS/listas.html">Listas</a>
 
-<!-- (viñetas): <ul> con <li> anidada que contiene los elementos de la lista -->
-
-<a href="LISTAS Y TABLAS/listas-ordenadas.html">Listas Ordenadas</a>
-
-<!-- (numeradas): <ol> con <li> anidada que contiene los elementos de la lista -->
-
-<!-- Hipervínculos (etiquetas de anclaje)
-Atributo importante: href (la URL a la que se enruta) -->
+<!-- (viñetas): <ul> con <li> anidada que contiene los elementos de la lista
+--
+(numeradas): <ol> con <li> anidada que contiene los elementos de la lista -->
 
 <a href="LISTAS Y TABLAS/tablas.html">Tablas</a>
 
@@ -48,10 +43,8 @@ IMAGENES Y VIDEOS
 
 <a href="IMAGENES Y VIDEOS/videos.html">Videos</a>
 
-<!-- Atributos importantes: src(la ruta del archivo de video) y controls -->
-
-<a href="IMAGENES Y VIDEOS/autoplay-loop-muted.html">Autoplay,Loop,Muted</a>
-
-<!-- Si queremos que un video se reproduzca de forma automática en navegadores modernos, debemos incluir autoplay, loop y muted -->
+<!-- Atributos importantes: src(la ruta del archivo de video) y controls 
+--
+ Si queremos que un video se reproduzca de forma automática en navegadores modernos, debemos incluir autoplay, loop y muted -->
 
 07/06/2022
