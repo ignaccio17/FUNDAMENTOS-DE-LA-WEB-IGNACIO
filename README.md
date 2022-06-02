@@ -47,7 +47,8 @@ IMAGENES Y VIDEOS
 --
  Si queremos que un video se reproduzca de forma automática en navegadores modernos, debemos incluir autoplay, loop y muted -->
 
---------------------------------------------------------------------------
+-------------------------------------------------------------------------
+
 <a href="quizElemental.html">Quiz "Elemental"</a>
 
 1. ¿Cuál es el lenguaje de marcado principal para crear páginas web y otra información que se puede mostrar en un navegador web?
@@ -70,5 +71,7 @@ Verdadero
 
 Para proporcionar un hipervínculo a la URL definida en el atributo href
 
+-------------------------------------------------------------------------
+<a href="Diccionario de entrada/Entrada-de-diccionario.html">Entrada de diccionario</a>
 
 07/06/2022
