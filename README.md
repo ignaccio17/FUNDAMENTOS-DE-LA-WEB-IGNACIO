@@ -42,15 +42,15 @@ Atributo importante: href (la URL a la que se enruta) -->
 
 IMAGENES Y VIDEOS
 
-<a href="IMAGENES-Y-VIDEOS/imagenes.html">Imagenes</a>
+<a href="IMAGENES Y VIDEOS/imagenes.html">Imagenes</a>
 
 <!-- Atributos importantes: src(la ruta del archivo de imagen)alt -->
 
-<a href="IMAGENES-Y-VIDEOS/videos.html">Videos</a>
+<a href="IMAGENES Y VIDEOS/videos.html">Videos</a>
 
 <!-- Atributos importantes: src(la ruta del archivo de video) y controls -->
 
-<a href="IMAGENES-Y-VIDEOS/autoplay-loop-muted.html">Autoplay,Loop,Muted</a>
+<a href="IMAGENES Y VIDEOS/autoplay-loop-muted.html">Autoplay,Loop,Muted</a>
 
 <!-- Si queremos que un video se reproduzca de forma automática en navegadores modernos, debemos incluir autoplay, loop y muted -->
 
