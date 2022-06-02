@@ -10,7 +10,7 @@ Una solicitud es una propuesta o requisito que pide el cliente ya sea en un jueg
 
 02/06/2022
 
-<a href="encabezados.html">encabezados</a>
+<a href="ELEMENTOS DE TEXTO/encabezados.html">encabezados</a>
 
 <a href="hipervinculos.html">hipervinculos</a>
 
