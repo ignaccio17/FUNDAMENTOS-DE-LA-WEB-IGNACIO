@@ -25,16 +25,11 @@ Atributo importante: href (la URL a la que se enruta) -->
 
 LISTAS Y TABLAS
 
-<a href="LISTAS Y TABLAS/listas-desordenadas.html">Listas Desordenadas</a>
+<a href="LISTAS Y TABLAS/listas.html">Listas</a>
 
-<!-- (viñetas): <ul> con <li> anidada que contiene los elementos de la lista -->
-
-<a href="LISTAS Y TABLAS/listas-ordenadas.html">Listas Ordenadas</a>
-
-<!-- (numeradas): <ol> con <li> anidada que contiene los elementos de la lista -->
-
-<!-- Hipervínculos (etiquetas de anclaje)
-Atributo importante: href (la URL a la que se enruta) -->
+<!-- (viñetas): <ul> con <li> anidada que contiene los elementos de la lista
+--
+(numeradas): <ol> con <li> anidada que contiene los elementos de la lista -->
 
 <a href="LISTAS Y TABLAS/tablas.html">Tablas</a>
 
@@ -48,10 +43,35 @@ IMAGENES Y VIDEOS
 
 <a href="IMAGENES Y VIDEOS/videos.html">Videos</a>
 
-<!-- Atributos importantes: src(la ruta del archivo de video) y controls -->
+<!-- Atributos importantes: src(la ruta del archivo de video) y controls 
+--
+ Si queremos que un video se reproduzca de forma automática en navegadores modernos, debemos incluir autoplay, loop y muted -->
 
-<a href="IMAGENES Y VIDEOS/autoplay-loop-muted.html">Autoplay,Loop,Muted</a>
+-------------------------------------------------------------------------
 
-<!-- Si queremos que un video se reproduzca de forma automática en navegadores modernos, debemos incluir autoplay, loop y muted -->
+<a href="quizElemental.html">Quiz "Elemental"</a>
+
+1. ¿Cuál es el lenguaje de marcado principal para crear páginas web y otra información que se puede mostrar en un navegador web?
+
+HTML
+
+2. El texto entre < body > y < /body > describe la parte visible de la página web. ¿Verdadero o falso?
+
+Verdadero
+
+3. En el ejemplo de código anterior, ¿Qué etiqueta es el padre de los elementos de la lista < li >?
+
+< ul >
+
+4. En el ejemplo de código anterior, ¿qué etiqueta es el padre de la etiqueta de anclaje < a >?
+
+< p >
+
+5. ¿Cuál es la función de la etiqueta anchor < a > en el ejemplo anterior?
+
+Para proporcionar un hipervínculo a la URL definida en el atributo href
+
+-------------------------------------------------------------------------
+<a href="Diccionario de entrada/Entrada-de-diccionario.html">Entrada de diccionario</a>
 
 07/06/2022
