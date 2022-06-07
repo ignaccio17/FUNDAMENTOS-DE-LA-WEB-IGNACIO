@@ -79,20 +79,20 @@ Para proporcionar un hipervínculo a la URL definida en el atributo href
 
 <a href="indentar.html">Indentar</a>
 
-Este documento mantiene la estructura Padres, hijos y hermanos.
+Este documento mantiene la estructura Padres, hijos y hermanos 
 
 <a href="pcs.html">Pcs</a>
 
 <a href="CorregirSangrias">Corregir Sangrias</a>
 
-*Crea un nuevo archivo en tu editor de texto (VS Code, Atom, Sublime...) e indenta correctamente el siguiente código:
+<!-- Crea un nuevo archivo en tu editor de texto (VS Code, Atom, Sublime...) e indenta correctamente el siguiente código -->
 
 <a href="formulario.html">Formulario</a>
 
-Formulario de registro: 
+<!-- Formulario de registro: 
 
-*Practicar hacer lo principal de muchos sitios web: un formulario de registro
+Practicar hacer lo principal de muchos sitios web: un formulario de registro
 
-*Practicar el uso de  form, input, select y textarea
+Practicar el uso de  form, input, select y textarea -->
 
 09/06/2022
