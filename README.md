@@ -82,4 +82,8 @@ Este documento mantiene la estructura Padres, hijos y hermanos.
 
 <a href="pcs.html">Pcs</a>
 
+<a href="CorregirSangrias">Corregir Sangrias</a>
+
+<a href="formulario.html">Formulario</a>
+
 09/06/2022
