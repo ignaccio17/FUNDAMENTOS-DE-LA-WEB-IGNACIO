@@ -96,3 +96,9 @@ Practicar hacer lo principal de muchos sitios web: un formulario de registro
 Practicar el uso de  form, input, select y textarea -->
 
 09/06/2022
+
+<a href="https://github.com/nachito0/Portafolio">Portafolio</a>
+
+En este dia realice mi primer portafolio de la asignatura, un formulario en el cual utilice etiquetas de codificacion como: *HTML* para darle un formato al archivo Index, luego agregue una etiqueta < title > para añadir el nombre a la ventana de la pagina, despues abri un < style > para acompañar el estilo de una *Tabla* que añadi y explicare mas adelante. Cree una etiqueta < body > en la cual dentro de ella agrege un titulo principal con < h1 >, abri etiquetas < div > las cuales fueron de ayuda para agregar etiquetas < a href > (vinculos que te redireccionan a paginas web) y tambien agregar imagenes con    < img src > las cuales luego ordene sus tamaños con *width* y *height*. Agregue un sub titulo con < h2 > al igual que una tabla con < table >, ocupe < tr >, < th >, < td > para agregar y ordenar el contenido dentro de esta, acto seguido añadi unos recuadros en los cuales poner un nombre, email y mensaje, ayudado con las etiquetas < input > para crear los recuadros donde escribir y < label > para generar el texto *Name:* - *Email:* - *Message* y alinearlos junto a estos. por ultimo añadi un boton llamado *Send Message* el cual tiene como funcionalidad "Enviar el Formulario". 
+
+14/06/2022
