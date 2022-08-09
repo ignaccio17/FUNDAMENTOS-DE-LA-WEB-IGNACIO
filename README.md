@@ -95,4 +95,48 @@ Practicar hacer lo principal de muchos sitios web: un formulario de registro
 
 Practicar el uso de  form, input, select y textarea -->
 
-09/06/2022
+14/06/2022
+
+<!DOCTYPE html>
+<html >
+<head>
+    <meta charset="UTF-8">
+    <title>Ejemplo</title>
+</head>
+<body>
+    <div id="title">
+        <h1>¡Hola, mundo!</h1>
+        <p>Subtítulo para acompañar al título</p>
+    </div>
+    <div class="main">
+    	<h3>Tema nuevo</h3>
+    	<p class="quote">
+            <a href="#" class="link">Lorem ipsum</a> dolor sit amet, consectetur adipisicing elit.<br>
+     	    Ea dignissimos cum iure est ullam eum animi!
+        </p>
+    </div>
+</body>
+</html>
+
+1. Según el código anterior, ¿qué selector seleccionaría el primer div < div id="title" >?
+
+*#title { }*
+
+2. Según el código anterior, ¿qué selector seleccionaría el segundo div < div class="main" >?
+
+*.main { }*
+
+3. Según el código anterior, ¿qué selector seleccionaría la etiqueta < h1 >?
+
+*< code >h1 { }< /code >*
+
+4.  Según el código anterior, ¿qué selector seleccionaría todas las etiquetas de párrafo < p >?
+
+*p { }*
+
+5. Según el código anterior, ¿qué selector seleccionaría la etiqueta de anclaje < a >?
+
+*Todas las anteriores*
+
+
+16/06/2022
